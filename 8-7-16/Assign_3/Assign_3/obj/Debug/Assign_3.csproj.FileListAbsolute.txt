@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Assign_3\Assign_3\bin\Debug\Assign_3.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Assign_3\Assign_3\bin\Debug\Assign_3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Assign_3\Assign_3\bin\Debug\Assign_3.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Assign_3\Assign_3\obj\Debug\Assign_3.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Assign_3\Assign_3\obj\Debug\Assign_3.pdb
